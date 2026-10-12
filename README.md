@@ -11,7 +11,7 @@ Research work by **Keerthan Suresh** and collaborators in machine learning, gene
 This work investigates machine-learning-based anomaly detection in system and network logs. It evaluates Random Forest, Decision Tree, and Multinomial Naive Bayes classifiers, with natural language preprocessing for unstructured log messages.
 
 - [Read the published paper (IJEAST)](https://www.ijeast.com/papers/356-363,%20Tesma0702,IJEAST,%2017429.pdf)
-- [Repository PDF](papers/Log_Anomaly_Detection.pdf) *(upload pending)*
+- [Repository PDF](Log_Anomaly_Detection.pdf)
 
 ### 2. A Survey of Using Generative Models to Perform Reverse Engineering
 
@@ -21,16 +21,13 @@ A comparative survey of four generative-model families—GANs, VAEs, Transformer
 
 **Authors:** Keerthan Suresh, Vipin Thandavamurthy Madhiazhagan, Gogineni Pavan Sai Srinivas, and Jonnagurukula Harshavardhan Reddy.
 
-- [Repository PDF](papers/Generative_AI_Reverse_Engineering.pdf) *(upload pending)*
+- [Repository PDF](Generative_AI_Reverse_Engineering.pdf)
 
 ## Repository structure
 
 ```text
 Publications/
 ├── README.md
-└── papers/
-    ├── Log_Anomaly_Detection.pdf
-    └── Generative_AI_Reverse_Engineering.pdf
+├── Log_Anomaly_Detection.pdf
+└── Generative_AI_Reverse_Engineering.pdf
 ```
-
-*The PDF links marked “upload pending” will work after the corresponding files are uploaded to the `papers/` folder.*
